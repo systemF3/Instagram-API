@@ -1,4 +1,4 @@
-# Instagram-API
+#Instagram-API
  
 
 ## Описание проекта.   
@@ -20,3 +20,4 @@ pip install -r requirements.txt
 ```
 python3 inst_parser.py --username rdepocode --password qwerty10
 ```
+     
